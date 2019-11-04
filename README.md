@@ -5,6 +5,7 @@ Este repositorio contiene los archivos basicos para implementar el velocista ARD
 
 Contine:
 Documentos de especificaciones
+
 Firmware: Codigo fuente de Velocista con PID ARDUINORACH_V7
 Copia de la Libreria Adafruit_SSD1306-master.zip para instalar en Arduino
 como instalar: ARDUINO - Programa Menu -> Incluir Libreria -> Añadir Bliblioteca Zip
